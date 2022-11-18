@@ -1,0 +1,50 @@
+[{
+  "question": "What is the capital of Finland?",
+  "type": "text",
+  "answer": "Helsinki"
+},
+{
+  "question": "Result of 15/3 ?",
+  "type": "number",
+  "answer": 5
+},
+{
+  "question": "What is the surname of the leading creator of relativity theory called Albert?",
+  "type": "text",
+  "answer": "Einstein"
+},
+{
+  "question": "How many rings are there in Olimpic games?",
+  "type": "number",
+  "answer": 5
+},
+{
+  "question": "Which planet is closest to the sun?",
+  "type": "text",
+  "answer": "Mercury"
+},
+{
+  "question": "When did Christopher Columbus completed his voyage across the Atlantic Ocean and reached America?",
+  "type": "select",
+  "answer": "12th October 1492",
+  "options": ["5th January 1492", "12th October 1492", "20th November 1592"]
+},
+{
+  "question": "How many valves does the heart have?",
+  "type": "number",
+  "answer": 2
+},
+{
+  "question": "In Harry Potter, what is the name of The Weasley's house?",
+  "type": "select",
+  "answer": "The burrow",
+  "options": ["The cave", "The cabin", "The burrow"]
+},{
+  "question": "What does Q means in LGBTQ+?",
+  "type": "text",
+  "answer": "Queer"
+},{
+  "question": "How many sides does a heptadecagon have?",
+  "type": "number",
+  "answer": 17
+}]
